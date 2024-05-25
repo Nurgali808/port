@@ -85,5 +85,4 @@ export const projectCardImages = [
   },
 ];
 
-
 export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
